@@ -1,0 +1,10 @@
+tensorflow
+scikit-learn
+transformers
+skops
+numpy
+keras
+keras_tuner
+
+pandas
+sentencepiece
