@@ -10,7 +10,7 @@ The used datasets are in the `data` folder. The used FastText and GloVe files ca
 Some of the models we trained can be found in the `models` folder. Predictions made by our models can be found in the `predictions` folder.
 
 ## Replicating our experiment
-Overall, the `scripts` folder contains all the jobscripts needed to replicate our experiment on the Hábrók cluster (usable with `sbatch`. The `Makefile` contains some shortcuts and helpers to run the scripts.
+Overall, the `scripts` folder contains all the jobscripts needed to replicate our experiment on the Hábrók cluster (usable with `sbatch`). The `Makefile` contains some shortcuts and helpers to run the scripts.
 Note that a virtual environment should be created beforehand. 
 
 ### Preprocessing the data
